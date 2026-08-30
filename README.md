@@ -35,11 +35,6 @@ Multi-Dimensional GenAI Evaluation. This project evaluating prompt effectiveness
 **Database:** SQLite                       
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-lemon.vercel.app/api?username=krishnapriya2512&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats-eight-lemon.vercel.app/api/top-langs/?username=krishnapriya2512&layout=compact&theme=radical" width="49%" />
-</p>
-
 
 <table>
   <tr>
