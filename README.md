@@ -4,7 +4,7 @@
 
 ### 🧭 About Me                                                                                                       
 🎓 M.Sc. Data Science student at the University of Münster Professional School, Germany                                                                                                                                     
-📄 I complete my thesis on UDSPP (Universal Data Science Problem-Solving Pipeline) — a framework that converts natural-language business requirements into formal Technical specifications in a seven step process and present the specifications in the form of Model Specification Manifest (JSON and Word Document) — supervised by Prof. Gottfried Vossen.               
+📄 I complete my thesis on UDSPP (Universal Data Science Problem-Solving Pipeline) - a framework that converts natural-language business requirements into formal Technical specifications in a seven step process and present the specifications in the form of Model Specification Manifest (JSON and Word Document) - supervised by Prof. Gottfried Vossen.               
 
 💼 ~2.5 years as a Associate at Cognizant Technology Solutions, worked in data governance and cloud migration
 
