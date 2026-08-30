@@ -1,12 +1,16 @@
 
 
-<h1 align="center">Hi, I'm Krishna Priya (KP) 👋</h1> <h3 align="center">Data Scientist | NLP & ML | M.Sc. Data Science @ University of Münster</h3> <p align="center"> <a href="https://www.linkedin.com/in/sri-krishnapriya-kondapalli-0a96a3196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:kskp2512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
-🧭 About Me                
-🎓 M.Sc. Data Science student at the University of Münster Professional School, Germany                               
-📄 Currently writing my thesis on UDSPP (Universal Data Science Problem-Solving Pipeline) — a framework that converts natural-language business requirements into formal Technical specifications — supervised by Prof. Gottfried Vossen       
-💼 ~2.5 years as a Associate at Cognizant Technology Solutions, working in data governance and cloud migration,
-🔍 Interested in NLP, applied ML, generative AI evaluation, and spatial-temporal data analysis         
-🌱 Always exploring new corners of the ML pipeline — from data engineering to model deployment                         
+<h1 align="center">Hi, I'm Krishna Priya 👋</h1> <h3 align="center">Data Scientist | NLP & ML | M.Sc. Data Science @ University of Münster</h3> <p align="center"> <a href="https://www.linkedin.com/in/sri-krishnapriya-kondapalli-0a96a3196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:kskp2512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+🧭 About Me                                                                  
+🎓 M.Sc. Data Science student at the University of Münster Professional School, Germany                                                            
+📄 Currently writing my thesis on UDSPP (Universal Data Science Problem-Solving Pipeline) — a framework that converts natural-language business requirements into formal Technical specifications — supervised by Prof. Gottfried Vossen    
+
+💼 ~2.5 years as a Associate at Cognizant Technology Solutions, working in data governance and cloud migration
+
+🔍 Interested in data analysis, NLP, applied ML, generative AI applications     
+
+🌱 Always exploring new corners of the ML pipeline — from data engineering to model deployment  
+
 🚀 Featured Projects               
 Project	Description	Tech                               
 UDSPP API	Thesis project: FastAPI + Node.js system implementing a 7-stage pipeline that converts natural-language requirements into formal ML specs, with keyword, DeBERTa NLI, and LLM-based scoring backends	Python, FastAPI, Node.js, SQLite, PyTorch                           
