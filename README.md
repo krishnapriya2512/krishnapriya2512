@@ -31,7 +31,7 @@ Multi-Dimensional GenAI Evaluation. This project evaluating prompt effectiveness
 **Machine Learning/Deep Learning Libraries:** PyTorch, scikit-learn, spaCy, NLTK, DeBERTa, Transformers                
 **Data Vizualisation Libraries:** pandas, matplotlib, plotly, folium                  
 **Backend/API:** FastAPI, Node.js, Flask                    
-**Tools:** Git, Streamlit,
+**Tools:** Git, Streamlit                
 **Database:** SQLite                       
 
 ### 📊 GitHub Stats
